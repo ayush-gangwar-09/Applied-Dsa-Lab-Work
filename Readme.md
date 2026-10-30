@@ -84,7 +84,7 @@ javac Main.java
 java Main
 ```
 
-> Note: Most programs use fixed input values directly in the source code. Check each program before running it. If the filename differs from `Main.java`, use the matching filename and class name.
+
 
 ## 🧠 Concepts Practiced
 
